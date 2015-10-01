@@ -1,0 +1,6 @@
+{"markers":[
+	{ "latitude":57.7973333, "longitude":12.0502107, "title":"Angered", "content":"Representing :)"  , "timestamp":20140110},
+	{ "latitude":57.6969943, "longitude":11.9865, "title":"Gothenburg", "content":"Swedens second largest city"  , "timestamp":20140220},
+	{ "latitude":57.9969944, "longitude":12.9865, "title":"thing",      "content":"<p>thing1</p><img width='100px' height='100px' src=\"http://localhost:8080/_ah/img/A3W81M_HtEWhUHjywOrEAA==\"/>"  , "timestamp":"20140530"},
+	{ "latitude":57.9969944, "longitude":11.9865, "title":"thing2",      "content":"<p>thing2</p><img width='100px' height='100px' src=\"http://localhost:8080/_ah/img/A3W81M_HtEWhUHjywOrEAA==\"/>" , "timestamp":"20141006"}
+]}
